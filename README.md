@@ -74,23 +74,22 @@ I also enjoy **running**, staying active, and sharing my lifestyle content on Ti
       <td width="33%">
         <h3>🔹 NYC Hate Crime Multi-Year Analysis</h3>
         <p>
-          Cleaned and analyzed a multi-year dataset (1,296+ incidents), explored trends by year and category, and built Tableau dashboards to highlight key patterns in bias-motivated crimes.
+          Analyzed 1,296 NYC hate crime incidents (2019–2021) by cleaning, structuring, and visualizing multi-year trends in Tableau—revealing major shifts in offense patterns and public safety while strengthening skills in data cleaning, trend analysis, and dashboard            storytelling.
         </p>
         <!-- Add your repo link here -->
         <!-- <a href="YOUR_REPO_LINK" target="_blank">🔗 View Project</a> -->
       </td>
       <td width="33%">
-        <h3>🔹 E-Commerce Sales Dashboard</h3>
+        <h3>🔹 Starbucks Operational Process & Capacity Analysis Project</h3>
         <p>
-          Built a performance dashboard for products, revenue, and customer behavior. Focused on KPIs, segmentation, and actionable insights for pricing and marketing decisions.
+          Optimized Starbucks’ operational workflow by analyzing capacity, service times, mobile-order demand, and supply chain constraints—identifying bottlenecks, modeling process improvements, and redesigning workflows to increase throughput to 30 customers/hr using           data-driven operational analysis and process mapping.
         </p>
         <!-- <a href="YOUR_REPO_LINK" target="_blank">🔗 View Project</a> -->
       </td>
       <td width="33%">
-        <h3>🔹 Spotify Data Analysis</h3>
+        <h3>🔹 Global Sales Performance Analysis </h3>
         <p>
-          Used the Spotify API and Pandas to explore track, artist, and audio feature data. Identified trends in popularity, listening patterns, and song characteristics.
-        </p>
+         Built an interactive Tableau dashboard analyzing global sales across 20+ countries and product lines—identifying top markets, high-revenue categories, state-level trends, and shipping performance (2,617 shipped orders)—while strengthening skills in data                 visualization, segmentation analysis, and KPI-driven insights.
         <!-- <a href="YOUR_REPO_LINK" target="_blank">🔗 View Project</a> -->
       </td>
     </tr>
