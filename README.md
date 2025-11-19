@@ -137,19 +137,19 @@ Identified top markets, high-value categories, and **2,617 completed shipments**
 ## 💼 **Professional Experience**
 
 ### **UNADAT — Data Analyst Intern**
-- Cleaned and transformed operational datasets for business insights.  
-- Automated recurring reports using Python & Excel.  
-- Built dashboards to communicate KPIs to leadership.  
-- Performed data validation, QA, and documentation.  
-- Collaborated with senior analysts on workflow optimization.
+- Cleaned, transformed, and validated large operational datasets to improve reporting accuracy and supported business teams with high-quality, analysis-ready data, strengthening attention to detail and data governance practices.
+- Automated recurring weekly and monthly performance reports using Python (Pandas) and Excel, reducing manual workload by 30–40% and enabling faster leadership decision-making.
+- Designed and built interactive dashboards to communicate KPIs such as productivity, task turnaround time, and SLA adherence, improving visibility for management and supporting data-driven strategy discussions.
+- Performed detailed data validation, quality assurance, and documentation, significantly reducing reporting inconsistencies and learning best practices in data pipeline reliability and auditability.
+- Collaborated closely with senior analysts and cross-functional stakeholders to analyze workflow efficiency, propose optimization ideas, and strengthen leadership skills such as communication, ownership, and proactive problem-solving..
 
 ---
 
-### **Amazon Operational Strategy & People Analytics Externship**
-- Analyzed workforce data to uncover productivity & retention insights.  
-- Modeled bottlenecks and operational scenarios for efficiency.  
-- Created reports aligning with Amazon Leadership Principles.  
-- Strengthened people analytics & operational metrics proficiency.
+### **Amazon Operational Strategy & People Analytics Externship (EXTERN) **
+- Analyzed workforce performance, productivity, and retention datasets to uncover trends across key KPIs such as turnover rates, utilization, and efficiency gaps, strengthening data-driven insights for workforce planning.
+- Modeled operational bottlenecks and simulated various workflow scenarios to identify throughput constraints, process delays, and resource inefficiencies, contributing to recommendations for performance optimization.
+- Developed presentation-ready reports following Amazon’s Leadership Principles—including Dive Deep, Earn Trust, and Customer Obsession—translating complex data findings into clear, actionable insights for stakeholder review.
+- Strengthened expertise in people analytics, operational metrics, and data storytelling, learning how large-scale organizations leverage analytics to improve workforce effectiveness and operational excellence.
 
 ---
 
