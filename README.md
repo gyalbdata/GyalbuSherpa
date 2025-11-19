@@ -19,7 +19,8 @@
 
 ## 🚀 **Aspiring Data Analyst | Business Analyst | Analytics Enthusiast**
 
-Welcome to my GitHub! I'm passionate about turning data into insights, solving business problems, and building real-world projects using **Python, SQL, and data visualization tools**.
+Hi, I’m Gyalbu Sherpa — a recent Data Analyst graduate originally from Nepal, now based in New York.
+I’m passionate about turning data into insights, solving real business problems, and building impactful analytics projects using Python, SQL, and data visualization tools. My journey from the mountains of Nepal to the fast-paced world of data has shaped my resilience, discipline, and drive to continuously learn and grow as an aspiring Data & Business Analyst.
 
 I am actively seeking roles as:
 - **Data Analyst**
