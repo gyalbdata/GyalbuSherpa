@@ -153,25 +153,6 @@ Identified top markets, high-value categories, and **2,617 completed shipments**
 
 ---
 
-## 🌐 Portfolio
-
-## 🔗 **LinkedIn Project Portfolio**
-
-Explore my full collection of projects directly on LinkedIn:
-
-<a href="https://www.linkedin.com/in/gyalbusherpa/details/projects/" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%20LinkedIn%20Projects-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-
-
----
-
-## 📄 **Resume**
-👉 [**Download My Resume**](./Gyalbu_Sherpa_Resume.pdf)
-
----
-
 ## 🥇 **Achievements**
 - Completed **Thorong La Pass** at Age 15  
 - Built multiple e-commerce brands  
