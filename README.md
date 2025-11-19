@@ -199,14 +199,12 @@ Upcoming Goals:
 ## 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GyalbuSherpa&show_icons=true&theme=tokyonight" height="160px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyalbuSherpa&theme=tokyonight" height="160px" />
 </div>
 
 ---
 
 <div align="center">
-<img src="https://cdn.pixabay.com/photo/2018/03/16/16/13/data-3239910_1280.jpg" width="100%" />
 <br>
 <em>Data-driven mind, Sherpa heart. 🏔️</em>
 </div>
