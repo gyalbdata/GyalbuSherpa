@@ -153,9 +153,14 @@ Identified top markets, high-value categories, and **2,617 completed shipments**
 
 ---
 
-## 🎓 **Portfolio**
-- 🔗 Tableau Public: *Add your link here*  
-- 🔗 LinkedIn Projects: *Add your link here*  
+## 🌐 Portfolio
+
+🔗 **LinkedIn Projects:**  
+- [linked Projects ](https://www.linkedin.com/in/gyalbusherpa/details/projects/)  
+
+🔗 **Tableau Public:**  
+- https://public.tableau.com/profile/YOURNAME
+
 
 ---
 
